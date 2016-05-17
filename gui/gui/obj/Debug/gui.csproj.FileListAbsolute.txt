@@ -1,0 +1,50 @@
+G:\Visual Studio Project\gui\gui\bin\Debug\gui.exe.config
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.Form1.resources
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.Properties.Resources.resources
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.csproj.GenerateResource.Cache
+G:\Visual Studio Project\gui\gui\bin\Debug\gui.exe
+G:\Visual Studio Project\gui\gui\bin\Debug\gui.pdb
+G:\Visual Studio Project\gui\gui\bin\Debug\ZedGraph.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\ZedGraph.xml
+G:\Visual Studio Project\gui\gui\bin\Debug\de\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\es\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\fr\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\hu\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\it\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\ja\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\pt\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\ru\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\sk\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\sv\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\tr\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.exe
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.pdb
+G:\Visual Studio Project\gui\gui\obj\Debug\gui.csprojResolveAssemblyReference.cache
+F:\krssg\gui\gui\bin\Debug\gui.exe.config
+F:\krssg\gui\gui\obj\Debug\gui.exe
+F:\krssg\gui\gui\obj\Debug\gui.pdb
+E:\gui\gui\gui\bin\Debug\gui.exe.config
+E:\gui\gui\gui\obj\Debug\gui.exe
+E:\gui\gui\gui\obj\Debug\gui.pdb
+E:\gui\gui\gui\bin\Debug\gui.exe
+E:\gui\gui\gui\bin\Debug\gui.pdb
+E:\gui\gui\gui\bin\Debug\ZedGraph.xml
+E:\gui\gui\gui\bin\Debug\de\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\es\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\fr\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\hu\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\it\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\ja\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\pt\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\ru\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\sk\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\sv\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\tr\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\gui\gui\gui\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\gui\gui\gui\obj\Debug\gui.csprojResolveAssemblyReference.cache
+E:\gui\gui\gui\obj\Debug\gui.Form1.resources
+E:\gui\gui\gui\obj\Debug\gui.Properties.Resources.resources
+E:\gui\gui\gui\obj\Debug\gui.csproj.GenerateResource.Cache
